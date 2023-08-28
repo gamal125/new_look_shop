@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "179601139246",
+    "project_id": "newlook-3193e",
+    "storage_bucket": "newlook-3193e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179601139246:android:f406a0d91b6603ef00a1bf",
+        "android_client_info": {
+          "package_name": "com.example.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179601139246-0em0vpfa1fo4pd7pl8jkctkdl2vb4l6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.news",
+            "certificate_hash": "39af6767fdf59b18ce5b1a74f5cbcd37aac6342a"
+          }
+        },
+        {
+          "client_id": "179601139246-4tmcputmib9m7079mr8nj7iuaustcucg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.news",
+            "certificate_hash": "f7d56b3e83ea2a4b1cad1bbef2bbb7b23387d2e0"
+          }
+        },
+        {
+          "client_id": "179601139246-6qnlpfnb3cd3sdm7k8g16eds82pmf99a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASD0s_KslZWG9PVfwWPA9n3CTUPcfgnwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179601139246-24po7d70n4ssjkrnk1m6s8fnge4225v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
